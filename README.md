@@ -5,5 +5,4 @@ To be added:
 + lib
 + log
 + storage
-+ temp
 + vendor
